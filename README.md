@@ -1,5 +1,10 @@
 # -EDA-on-Hotel Data Analysis & Price Prediction
 Skills Used: Data Cleaning, Pandas, Matplotlib, Seaborn
+Technologies Used
+- Data Analysis: Pandas, NumPy
+- Data Visualization: Matplotlib, Seaborn
+- Data Cleaning: Scikit-learn (SimpleImputer, LabelEncoder)
+- Jupyter Notebook/Python Script for execution
 Data Preprocessing & Cleaning
 - Converted categorical columns to numerical format
 - Handled missing values using median/mode imputation
